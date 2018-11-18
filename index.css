@@ -1,0 +1,14 @@
+#start {
+    width: 75%; 
+    color: brown;
+    height: 30;
+}
+#title {
+    text-align: center;
+}
+.container-fluid {
+    background-color: rgb(247, 229, 171);
+}
+html {
+    background-color: rgb(247, 229, 171);
+}
