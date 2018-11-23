@@ -1,3 +1,8 @@
+.root {
+    --background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
+
+
 #start {
     width: 75%; 
     color: brown;
@@ -7,8 +12,8 @@
     text-align: center;
 }
 .container-fluid {
-    background-color: rgb(247, 229, 171);
+    background: --background;
 }
-html {
-    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+body {
+    background: --background;
 }
